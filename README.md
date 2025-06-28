@@ -72,3 +72,40 @@ Player 2 (bowl): 7 → OUT → Final Score = 4
 Second Innings:
 Player 2 (bat): 5
 Player 1 (bowl): 6 → Not out → Score = 5 → Player 2 wins!
+
+
+💡 Features
+
+Fun 2-player gameplay
+Mimics street cricket toss and gameplay
+Turn-based logic using Python
+Easy CLI-based interaction
+
+🚀 Getting Started
+🔧 Requirements
+Python 3.x
+
+
+▶️ Run the Game
+python odd_even.py
+
+
+🧑‍💻 Author
+Parth Ahuja
+📧 parthahuja037@gmail.com
+
+
+📜 License
+Licensed under the MIT License
+
+
+🌟 Star this repo if you like the game!
+
+---
+
+Let me know if you'd like:
+- Emoji-rich version for GitHub trending page
+- A YouTube demo link or visuals section
+- To make this into a web or mobile app in future
+
+Happy gaming! 🏏🕹️
